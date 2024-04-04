@@ -1,1 +1,6 @@
-public class CodingTask{ }
+public class CodingTask{ 
+
+    public static void main(){
+        
+    }
+}
